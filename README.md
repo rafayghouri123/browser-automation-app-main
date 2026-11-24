@@ -15,7 +15,7 @@
   <a href="#getting-started">Quick start</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="#deploy-on-railway">Deploy</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
   <a href="#how-it-works">Architecture</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <a href="#tutorial">Tutorial</a>
+  
 </p>
 
 <br />
@@ -42,13 +42,7 @@
 
 > Build automations as connected nodes, watch every step execute live, and inspect the complete browser session when the run is finished.
 
----
 
-## Tutorial
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=1hnyCQW-B4A"><img src="https://img.shields.io/badge/YouTube-Watch_the_full_tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the full tutorial on YouTube" /></a>
-</p>
 
 Each chapter has a matching branch so you can check out the code at any point in the tutorial:
 
