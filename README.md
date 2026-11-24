@@ -157,7 +157,6 @@ git checkout chapter-16-browserbase-setup  # example: jump to Browserbase setup
 ### 1. Clone and install
 
 ```bash
-git clone git@github.com:code-with-antonio/browser-automation-app.git
 cd browser-automation-app
 npm install
 ```
